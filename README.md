@@ -1,5 +1,6 @@
 
-![movie2snapshot](https://github.com/KRproject-tech/Movie2snapshot/assets/114337358/4e11ed12-eafd-4ddb-b625-7781d0282594)
+![movie2snapshot](https://github.com/KRproject-tech/Movie2snapshot/assets/114337358/23b732cc-8bf5-4333-a78f-cc1a66f6e7c1)
+
 
 # Movie2snapshot
 Snapshot generation from an MP4 movie by MATLAB.
@@ -36,7 +37,7 @@ The following ToolBoxes in “./ToolBoxes/” are required,
 
 __[Step 2] movie__
 
-Put an MP4 movie in "./load/".
+Put an MP4 movie as "./load/movie.mp4".
 
 __[Step 3] Genarate snapshot__
 
