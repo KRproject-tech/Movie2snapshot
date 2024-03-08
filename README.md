@@ -1,3 +1,6 @@
+
+![movie2snapshot](https://github.com/KRproject-tech/Movie2snapshot/assets/114337358/4e11ed12-eafd-4ddb-b625-7781d0282594)
+
 # Movie2snapshot
 Snapshot generation from an MP4 movie by MATLAB.
 
