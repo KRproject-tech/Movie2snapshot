@@ -27,7 +27,7 @@ __[Step 1] Install the ToolBoxes__
 
 The following ToolBoxes in “./ToolBoxes/” are required,
 
-*	__“mmread”__ by  David Foti:  
+*	__“mmread”__ by Micah Richert:  
 [https://jp.mathworks.com/matlabcentral/fileexchange/309-mpgwrite?s_tid=srchtitle](https://jp.mathworks.com/matlabcentral/fileexchange/8028-mmread)https://jp.mathworks.com/matlabcentral/fileexchange/8028-mmread
 
 
