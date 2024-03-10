@@ -3,7 +3,7 @@
 
 
 # Movie2snapshot
-Snapshot generation from an MP4 movie by MATLAB.
+Snapshot generation from an MP4 movie with a time stamp by MATLAB.
 
 **Communication**
 
@@ -41,4 +41,4 @@ Put an MP4 movie as "./load/movie.mp4".
 
 __[Step 3] Genarate snapshot__
 
-Execute "plot_data.m", then the snapshot is generated in "./fig/" directory.
+Execute "plot_data.m", then the snapshot with a time stamp is generated in "./fig/" directory.
