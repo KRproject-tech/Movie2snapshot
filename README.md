@@ -42,3 +42,5 @@ Put an MP4 movie as "./load/movie.mp4".
 __[Step 3] Genarate snapshot__
 
 Execute "plot_data.m", then the snapshot with a time stamp is generated in "./fig/" directory.
+
+![image](https://github.com/KRproject-tech/Movie2snapshot/assets/114337358/2418b3c5-e68e-4104-ab97-715df461122b)
